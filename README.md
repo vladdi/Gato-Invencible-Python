@@ -8,6 +8,7 @@ EQUIPO:
 
 Código fuente en python para un juego de Gato invencible.
 
+*****
 Para correr el programa:
 	1.- Necesitas descargar el interprete de Python de la siguiente dirección https://www.python.org/downloads/
 
@@ -25,7 +26,7 @@ Para correr el programa:
 
 	7.- Listo_!
 
-
+*****
 
 *******
 	En este caso debes ingresar la casilla done deseas tirar:
